@@ -17,4 +17,4 @@ This si a good example of [my code](https://gist.github.com/JJ-Chamorro-Infante/
 This is the [notebook](https://github.com/JJ-Chamorro-Infante/technical-discussion/blob/main/technical_docs.ipynb)
 
 ### Image
-https://github.com/JJ-Chamorro-Infante/technical-discussion/issues/1#issue-2271745686
+![Captura de pantalla 2024-04-30 095650](https://github.com/JJ-Chamorro-Infante/technical-discussion/assets/168563877/8f1ee57e-44e9-4fbc-abc3-b2efec7cf014)
