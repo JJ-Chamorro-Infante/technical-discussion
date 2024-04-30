@@ -16,3 +16,5 @@ This si a good example of [my code](https://gist.github.com/JJ-Chamorro-Infante/
 
 This is the [notebook](https://github.com/JJ-Chamorro-Infante/technical-discussion/blob/main/technical_docs.ipynb)
 
+### Image
+https://github.com/JJ-Chamorro-Infante/technical-discussion/issues/1#issue-2271745686
